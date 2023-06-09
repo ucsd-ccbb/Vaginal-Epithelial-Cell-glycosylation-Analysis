@@ -1,0 +1,13 @@
+Sample Name	Sample Code	Reference Genome (Organism)	Gender	Condition	Time point
+VK2_NanH2_PolyB25_2h_1	K001	Human	Female	NanH2 treated	2 hour
+VK2_NanH2_PolyB25_2h_2	K002	Human	Female	NanH2 treated	2 hour
+VK2_NanH2_PolyB25_2h_3	K003	Human	Female	NanH2 treated	2 hour
+VK2_NanH2_PolyB25_2h_4	K004	Human	Female	NanH2 treated	2 hour
+VK2_NanH2_PolyB25_1h_5	K005	Human	Female	NanH2 treated	1 hour
+VK2_NanH2_PolyB25_1h_6	K006	Human	Female	NanH2 treated	1 hour
+VK2_NanH2_PolyB25_1h_7	K007	Human	Female	NanH2 treated	1 hour
+VK2_NanH2_PolyB25_1h_8	K008	Human	Female	NanH2 treated	1 hour
+VK2_Pet28a_PolyB25_2h_9	K009	Human	Female	Vector treated	2 hour
+VK2_Pet28a_PolyB25_2h_10	K010	Human	Female	Vector treated	2 hour
+VK2_Pet28a_PolyB25_2h_11	K011	Human	Female	Vector treated	2 hour
+VK2_Pet28a_PolyB25_2h_12	K012	Human	Female	Vector treated	2 hour
