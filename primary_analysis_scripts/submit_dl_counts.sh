@@ -1,0 +1,12 @@
+sh dl_counts.sh	VK2_NanH2_PolyB25_1h_5	
+sh dl_counts.sh	VK2_NanH2_PolyB25_1h_6	
+sh dl_counts.sh	VK2_NanH2_PolyB25_1h_7	
+sh dl_counts.sh	VK2_NanH2_PolyB25_1h_8	
+sh dl_counts.sh	VK2_NanH2_PolyB25_2h_1	
+sh dl_counts.sh	VK2_NanH2_PolyB25_2h_2	
+sh dl_counts.sh	VK2_NanH2_PolyB25_2h_3	
+sh dl_counts.sh	VK2_NanH2_PolyB25_2h_4
+sh dl_counts.sh	VK2_Pet28a_PolyB25_2h_9	
+sh dl_counts.sh	VK2_Pet28a_PolyB25_2h_10	
+sh dl_counts.sh	VK2_Pet28a_PolyB25_2h_11	
+sh dl_counts.sh	VK2_Pet28a_PolyB25_2h_12	
